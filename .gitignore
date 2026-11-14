@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python / Jupyter cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
