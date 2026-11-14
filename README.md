@@ -158,7 +158,6 @@ echo GEMINI_API_KEY=your_api_key_here > .env
    ```bash
    jupyter nbconvert --to notebook --execute --inplace notebook/starter_notebook_semantic_search.ipynb
    ```
-   (perintah ini memerlukan `pip install nbconvert`)
 
 Notebook akan membuat ulang `vector_store/faq_index.faiss`, `vector_store/faq_metadata.csv`, dan `documentation/retrieval_test_results.md`.
 

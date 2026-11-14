@@ -4,6 +4,8 @@
 - Vector DB: FAISS `IndexFlatIP` (cosine similarity), 59 vektor
 - top_k = 3
 
+> Analisis relevansi hasil pengujian ini ada di [README.md](../README.md#3-hasil-pengujian--analisis-relevansi) dan di bagian akhir notebook.
+
 ## Ringkasan
 
 | No | Tipe | Query | Expected FAQ | Retrieved top-3 | Top-1 sim | Hit@1 | Hit@3 |
